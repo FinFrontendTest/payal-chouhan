@@ -1,0 +1,38 @@
+/* FormComponent.module.css */
+.formContainer {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
+  .formField {
+    margin-bottom: 15px;
+  }
+  
+  .checkboxGroup {
+    display: flex;
+    flex-direction: column;
+  }
+  .radioGroup {
+    display: flex;
+    flex-direction: row;
+    margin-top: 5px;
+  }
+  
+  .radioGroup label {
+    margin-right: 15px;
+  }
+  
+  .error {
+    color: red;
+    font-size: 12px;
+    margin-left: 5px;
+  }
+  
+  .formActions {
+    margin-top: 20px;
+  }
+
+  
+  
